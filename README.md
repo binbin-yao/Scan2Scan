@@ -1,3 +1,3 @@
 # Scan2Scan
 
-The code will be made publicly available upon acceptance.
+The code will be made publicly available upon acceptance of the manuscript.
